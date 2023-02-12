@@ -4,7 +4,9 @@ A stohastic propagation model of the agent is given. measurment beacons are scat
 In this implimintation the agent navigate in the belief space by generating a set of trajectories around the beacons.
 The belief is propagated (updated) using a classic kalman filtering approach. 
 For each generated trajectory a cost function is calculated based on the determinant of the accumulated 2d covariance matrix.
-The lowest cost trajectory is chosen and thus the best actions policy  
+The lowest cost trajectory is chosen and thus the best actions policy.
+
+By Eli Goldenshluger & Nitzan Makmal
 
 ![image](https://user-images.githubusercontent.com/104156586/218325849-e4f80e0e-5a1a-4237-9a67-9a885d1badc0.png)
 
