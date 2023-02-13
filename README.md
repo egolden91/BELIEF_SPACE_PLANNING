@@ -8,7 +8,11 @@ The lowest cost trajectory is chosen and thus the best actions policy.
 
 By Eli Goldenshluger & Nitzan Makmal
 
-![image](https://user-images.githubusercontent.com/104156586/218325849-e4f80e0e-5a1a-4237-9a67-9a885d1badc0.png)
+![image](https://user-images.githubusercontent.com/104156586/218392547-4aa9d1a3-e3b8-4e7d-a728-6a970ab82791.png)![image](https://user-images.githubusercontent.com/104156586/218392586-2de29b95-4821-4aba-9eaa-fb807dd1e952.png)
+
+
+![image](https://user-images.githubusercontent.com/104156586/218393128-5d42e0a7-8678-42d7-942e-3598653fca3d.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/104156586/218325900-c34e6631-196d-456f-8131-b659497a496e.png)
